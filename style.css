@@ -82,6 +82,7 @@ section img {
   padding: 8px 28px;
   /* border-radius: 20px; */
   transform: translateY(50px);
+  border-radius: 20px;
 }
 .sec1::before {
   content: "";
